@@ -1,6 +1,6 @@
 # NICAR 2023: Web scraping with Python
 
-### 🔗 [bit.ly/nicar23-scraping](bit.ly/nicar23-scraping)
+### 🔗 [bit.ly/nicar23-scraping](https://bit.ly/nicar23-scraping)
 
 This repo contains materials for a half-day workshop at the NICAR 2023 data journalism conference in Nashville on using Python to scrape data from websites.
 
