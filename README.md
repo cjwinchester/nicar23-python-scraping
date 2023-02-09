@@ -19,7 +19,7 @@ The session is scheduled for Sunday, March 5, from 9 a.m. - 12:30 p.m. in room `
     - See if the data is delivered to the page in a ready-to-use format, such as JSON ([example](https://sdlegislature.gov/Session/Archived))
     - Is the HTML part of the actual page structure, or is it built on the fly when the page loads? ([example](https://rrctx.force.com/s/complaints))
     - Can you open the URL directly in an incognito window and get to the same content, or does the page require a specific state to deliver the content (via search navigation, etc.)? ([example](https://rrctx.force.com/s/ietrs-complaint/a0ct0000000mOmhAAE/complaint0000000008))
-    - Are there [URL query paramaters](https://en.wikipedia.org/wiki/Query_string) that you can tweak to get different results? ([example](https://www.worksafe.qld.gov.au/news-and-events/alerts))
+    - Are there [URL query parameters](https://en.wikipedia.org/wiki/Query_string) that you can tweak to get different results? ([example](https://www.worksafe.qld.gov.au/news-and-events/alerts))
 - Choose tools that the most sense for your target page(s) -- a few popular options:
     - [`requests`](https://requests.readthedocs.io/en/latest/) and [`BeautifulSoup`](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)
     - [`playwright`](https://playwright.dev/python) (optionally using `BeautifulSoup` for the HTML parsing)
