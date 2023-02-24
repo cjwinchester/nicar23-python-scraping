@@ -14,7 +14,7 @@ The session is scheduled for Sunday, March 5, from 9 a.m. - 12:30 p.m. in room `
         - Make sure you feel OK about whether your scraping project is (legally, ethically, etc.) allowable
         - Don't DDOS your target server
         - When feasible, save copies of pages locally, then scrape from those files
-        - Rotate user-agent strings and other headers if necessary to avoid bot detection
+        - [Rotate user-agent strings](https://www.useragents.me/) and other headers if necessary to avoid bot detection
 - Using your favorite brower's inspection tools to deconstruct the target page(s)
     - See if the data is delivered to the page in a ready-to-use format, such as JSON ([example](https://sdlegislature.gov/Session/Archived))
     - Is the HTML part of the actual page structure, or is it built on the fly when the page loads? ([example](https://rrctx.force.com/s/complaints))
