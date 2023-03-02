@@ -6,6 +6,14 @@ This repo contains materials for a half-day workshop at the NICAR 2023 data jour
 
 The session is scheduled for Sunday, March 5, from 9 a.m. - 12:30 p.m. in room `Midtown 3` on Meeting Space Level 2.
 
+### First step
+
+Open the Terminal application. Copy and paste this text into the Terminal and hit enter:
+
+```bash
+cd ~/Desktop/hands_on_classes/20230305-sunday-web-scraping-with-python--preregistered-attendees-only
+```
+
 ### Course outline
 - Do you really need to scrape this?
 - Process overview:
