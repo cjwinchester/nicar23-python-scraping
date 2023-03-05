@@ -11,7 +11,7 @@ The session is scheduled for Sunday, March 5, from 9 a.m. - 12:30 p.m. in room `
 Open the Terminal application. Copy and paste this text into the Terminal and hit enter:
 
 ```bat
-cd ~/Desktop/hands_on_classes/20230305-sunday-web-scraping-with-python--preregistered-attendees-only & .\env\Scripts\activate
+cd Desktop/hands_on_classes/20230305-sunday-web-scraping-with-python--preregistered-attendees-only & .\env\Scripts\activate
 ```
 
 ### Course outline
